@@ -1,14 +1,15 @@
 body {
   font-family: "Rajdhani", sans-serif;
-  margin: 0 auto;
-  max-width: 800px;
-  width: 100%;
+  margin: 0 auto; /*DE COSTUME TIRAR*/
+  max-width: 800px; /*PRIORIDADE - MAX. QUE PODE TER DE LARGURA*/
+  width: 100%; /*TODO O CONTEUDO TERA 100% DA TELA*/
 }
 
+/*PARA IDENTIFICAR O ID*/
 #titulo {
   margin-bottom: 0;
-  color: #ec183f;
-  font-size: 40px;
+  color: #ec183f; /*COR DA FONTE H1*/
+  font-size: 40px; /*LIMITA O TAMANHO DA FONTE*/
 }
 
 header p {
